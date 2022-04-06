@@ -1,3 +1,5 @@
+![lion](https://user-images.githubusercontent.com/68069659/161894239-76d660d8-4052-4c8e-80ef-d8c6be396913.gif)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### about me:
+
+[![nodered](https://img.shields.io/badge/nodered-red)](https://flows.nodered.org/node/node-red-contrib-crp)
