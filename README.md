@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### about me:
 
-[![nodered](https://img.shields.io/badge/nodered-red)](https://flows.nodered.org/node/node-red-contrib-crp)
+[![nodered](https://img.shields.io/badge/nodered-red)](https://nodered.org/)
