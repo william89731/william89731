@@ -1,4 +1,4 @@
-![lion](https://user-images.githubusercontent.com/68069659/161894239-76d660d8-4052-4c8e-80ef-d8c6be396913.gif)
+![lion2](https://user-images.githubusercontent.com/68069659/167970531-1831701b-5219-438a-b606-5e26ddbb81ba.gif)
 
 ### Hi 😄👋
 
