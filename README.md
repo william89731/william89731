@@ -19,7 +19,7 @@
 
 [![linux](https://img.shields.io/badge/linux-magenta)](https://www.linux.org/)
 [![docker](https://img.shields.io/badge/docker-cyano)](https://www.docker.com/)
-[![microk8s](https://img.shields.io/badge/microk8s-yellowgreen)](https://microk8s.io/)
+[![kubernetes](https://img.shields.io/badge/-kubernetes-blue)](https://kubernetes.io/)
 [![nodered](https://img.shields.io/badge/nodered-red)](https://nodered.org/)
 [![nodejs](https://img.shields.io/badge/nodejs-blue)](https://nodejs.org/en/)
 [![mysql](https://img.shields.io/badge/mysql-9cf)](https://www.mysql.com/)
