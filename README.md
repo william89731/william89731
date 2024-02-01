@@ -72,7 +72,7 @@
 
 - [easy-docker](https://github.com/william89731/easy-docker)
 
-  tools for docker and docker compose
+  tool for docker and docker compose
 
 
 
