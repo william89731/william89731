@@ -74,6 +74,10 @@
 
   tool for docker and docker compose
 
+- [image-registry-updater](https://github.com/william89731/image-registry-updater/tree/main)
+
+  tool check images registry
+
 
 
 
