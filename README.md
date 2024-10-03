@@ -78,6 +78,10 @@
 
   tool check images registry
 
+- [proxmox widget temperature](https://github.com/william89731/proxmox-widget-temperature)
+
+  widget temperature cpu/disk in dashboard
+
 
 
 
