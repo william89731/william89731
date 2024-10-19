@@ -74,17 +74,8 @@
 
   widget temperature cpu/disk in dashboard  
 
-- [trivy-scan](https://github.com/william89731/trivy-scan)
 
-  scan image docker
 
-- [easy-docker](https://github.com/william89731/easy-docker)
-
-  tool for docker and docker compose
-
-- [image-registry-updater](https://github.com/william89731/image-registry-updater/tree/main)
-
-  tool check images registry
 
 
 
